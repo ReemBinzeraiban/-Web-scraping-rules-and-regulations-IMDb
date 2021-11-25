@@ -38,6 +38,7 @@ The idea of our project is to remove the data from IMDb and form an analysis tha
 ### Data Description 
 
 We are used a web scraping from IMBD and extracted data form the site for1000 rows and 11 columns.
+
 Name: title of the movie,
 
 Genre: Genre of the movie
