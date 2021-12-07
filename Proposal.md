@@ -32,7 +32,7 @@ The Internet Movie Database (IMDb) is one of the world's most entertaining popul
 
 ### Data Description 
 
-We are used a web scraping from IMBD and extracted data form the site for1000 rows and 11 columns.
+We are used a web scraping from IMBD and extracted data form the site for1000 rows and 10 columns.
 
 Name: title of the movie,
 
@@ -50,11 +50,9 @@ Vote: number of votes
 
 Gross: Money earned by that movie
 
-Description: Description of the movie 
 
-Director : Name of the Director
+Certificate: Movie ratings explained syatem
 
-Stars of the movie: Name of the Stars
 
 
 
