@@ -16,23 +16,18 @@ IMDb (an acronym for Internet Movie Database) is an online database of informati
 
 ### Problem Statement  
 
-The Internet Movie Database (IMDb) is one of the world's most entertaining popular sources of movie, TV and celebrity content with over 100 million unique visitors each day.
-IMDb has a huge collection of movie database which includes various   classification such as action, classic drama, horror and comedy
-The idea of our project is to remove the data from IMDb and form an analysis that helps the data analyst or production company decide how to go about making a new movie, and the second is to create a model to predict the feelings of movies based on user opinions.
+The Internet Movie Database (IMDb) is one of the world's most entertaining popular sources of movie, TV and celebrity content with over 100 million unique visitors each day. IMDb has a huge collection of movie database which includes various classification such as action, classic drama, horror and comedy The idea of our project is to web scraping the data from IMDb and form an analysis that helps the data analyst or production company decide how to go about making a new movie, and the second is to create a model to predict the feelings of movies based on user opinions.
 
 
 ### Question\Need
 
-1-How many movies are produced each year?
+1-what is the distribution of Rating and Votes for each years?
 
 
-2-How many movies for each classification?
+2-What is the top 7 Movies according to highest votes?
 
 
-3-What is the average for each movie classification?
-
-
-4-How many movies were produced for each director?
+3-How many vote for each movies genre?
 
 
 ### Data Description 
@@ -65,10 +60,11 @@ Stars of the movie: Name of the Stars
 
 ### Tools
 
-Technologies: python, Jupyter notebook 
+Technologies: python, Jupyter notebook
 
-Libraries: BeautifulSoup, requests, pandas,numpy, matplotlib, seaborn
 
+
+Libraries: BeautifulSoup, requests, pandas, numpy, matplotlib, seaborn, , LogisticRegression , sklearn.linear_model, sklearn.model_selection, sklearn.preprocessing
 
 
 ### BY
